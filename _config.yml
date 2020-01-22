@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Timothy Grozier's Blog
+description: This is a blog to demonstrate my "data science" abilities (a mix of coding, communicating, and creating), and maybe some random essays, too!
+github_username: tgrozier25
 
 # Email and twitter are optional:
-email: 
+email: tgrozier25@gmail.com
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
